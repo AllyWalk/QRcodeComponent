@@ -18,7 +18,7 @@ Agrega aquí una **captura de pantalla** del resultado final de tu componente.
 ### 🔗 Enlaces del proyecto
 
 - **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/AllyWalk/QRcodeComponent)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
+- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://q-rcode-component-theta.vercel.app/)
 
 ---
 
