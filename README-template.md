@@ -17,7 +17,7 @@ Agrega aquí una **captura de pantalla** del resultado final de tu componente.
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/)
+- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/AllyWalk/QRcodeComponent)
 - **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
 
 ---
@@ -39,20 +39,12 @@ Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo
 En esta sección describe brevemente **qué aprendiste o reforzaste** al desarrollar este proyecto.  
 Puedes incluir fragmentos de código o mencionar conceptos nuevos que aplicaste.
 
-Ejemplo:
-```html
-<div class="p-4 text-center bg-white shadow-lg rounded-xl">
-  <img src="/qr-code.png" alt="QR Code" class="rounded-lg" />
-</div>
-```
-
----
+Aprendi a como poder manipular los elementos de diferentes maneras y poder aprovechar algunos de ellos para que se reutilizen en otros sitios cambiando solo el contendio de adentro, aqui no se puede aprovechar al maximo pero en un suponer que tengamos mas de un qr podemos reutilizarlo el QRcard para los demas qr
 
 ### 🚀 Áreas de mejora
 
 Menciona aquí los aspectos que podrías mejorar o seguir practicando en futuros proyectos.
 
-**Ejemplo:**
 - Mejorar el manejo del responsive en pantallas pequeñas.  
 - Implementar animaciones o transiciones suaves.  
 - Explorar el uso de variables de Tailwind personalizadas.  
@@ -74,11 +66,11 @@ Incluye los enlaces, documentación o tutoriales que te ayudaron a completar est
 
 ### 👩‍💻 Autor
 
-- **Nombre completo:**  
-- **Carrera:**  
-- **Grupo:**  
-- **Correo institucional:**  
-
+- **Nombre completo:*Noé Asael Quintero Águila*  
+- **Carrera:*Tics*  
+- **Grupo:*TC1*  
+- **Correo institucional:*23151250@aguascalientes.tecnm.mx*  
+- **Numero de control:*23151250*
 ---
 
 ### ✨ Reflexión final
@@ -86,7 +78,11 @@ Incluye los enlaces, documentación o tutoriales que te ayudaron a completar est
 Comparte brevemente tu experiencia durante el desarrollo del proyecto.  
 Puedes responder a preguntas como:
 
-- ¿Qué fue lo más fácil o lo más difícil de realizar?  
+- ¿Qué fue lo más fácil o lo más difícil de realizar? 
+Que el sitio fuera responsiva  
 - ¿Qué parte disfrutaste más del desarrollo?  
-- ¿Qué conceptos nuevos aprendiste?  
+Ver que funcionaba
+- ¿Qué conceptos nuevos aprendiste? 
+Repase un poco de todo visto en clase, especialemente lo del diseño responsivo
 - ¿Cómo aplicarías lo aprendido en proyectos futuros?
+De igual manera, la parte dificil fue la responsiva, entendieno las bases uno puede hacer responsivo para diferentes sitios/paginas web
