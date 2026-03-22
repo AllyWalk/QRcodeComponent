@@ -1,0 +1,25 @@
+---
+// Importa la imagen desde la carpeta public/images/
+const qrImage = "/images/image-qr-code.png";
+---
+
+<article class="bg-white p-4 rounded-[20px] shadow-xl w-full max-w-[320px] text-center flex flex-col items-center">
+  
+  <div class="w-full aspect-square overflow-hidden rounded-[10px] mb-6">
+    <img
+      src={qrImage}
+      alt="Código QR de Frontend Mentor"
+      class="w-full h-full object-cover"
+    />
+  </div>
+
+  <div class="px-2 pb-6">
+    <h1 class="text-[22px] font-bold text-[#1f314f] leading-tight mb-4 font-sans">
+      Improve your front-end skills by building projects
+    </h1>
+    <p class="text-[15px] text-[#7d889e] leading-normal font-sans">
+      Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+    </p>
+  </div>
+
+</article>  
